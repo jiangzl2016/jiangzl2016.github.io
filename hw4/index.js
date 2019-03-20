@@ -10,11 +10,11 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'I may have lost my heart, but not my self-control.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.', 
+      'One may smile, and smile, and be a villain.', 
   'example4':
-      'You must allow me to tell you how ardently I admire and love you.'
+      'Christianity is always out of fashion because it is always sane; and all fashions are mild insanities.'
 };
 
 function status(statusText) {
